@@ -1,4 +1,4 @@
-<h1 align="center">Hiii🎀, I'm Isabella</h1>
+<h1 align="center">Hiii🌸, I'm Isabella</h1>
 <h3 align="center">Soy una desarrolladora aficionada con el diseño y con aprender mas tecnologías!!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
